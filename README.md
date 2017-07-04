@@ -1,5 +1,5 @@
 # stm32f7_getInfo
-Get chip info and core registers for STM32F7xxx and output to UART one<br>
+Get chip info and core registers for STM32F7xxx and output to UART one 115200 8N1<br>
 Output should look something like this:<br>
 Connected to UART One<br>
 stm32f76xxx/stm32f77xxx  Revision A<br>
